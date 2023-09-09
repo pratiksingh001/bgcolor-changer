@@ -2,7 +2,7 @@ import { useState } from "react"
 
 function App() {
 
-  const [color, setColor] = useState("grey")
+  const [color, setColor] = useState("skyblue")
 
   // const handleButtonClick = (color) =>{
   //   setColor(color)
